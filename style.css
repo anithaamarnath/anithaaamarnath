@@ -399,7 +399,7 @@ img {
 .availability-card {
   position: absolute;
   z-index: 6;
-  bottom: 5%;
+  bottom: 17%;
   left: 50%;
   transform: translateX(-50%);
   display: flex;
@@ -1146,7 +1146,7 @@ img {
   }
 
   .availability-card {
-    bottom: 4%;
+    bottom: 16%;
     font-size: 0.64rem;
     padding: 10px 14px;
   }
